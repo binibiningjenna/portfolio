@@ -1,7 +1,8 @@
 
     * {
       box-sizing: border-box;
-      font-family:Arial black;
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+      font-weight:bold;
     }
     body{
       background-color:#B9B4C7;
@@ -335,5 +336,12 @@ li a{
   .background-img .picture {
     float:none;
     margin:0 auto;
+  }
+   .credentials .it {
+    width:30%
+  }
+  .credentials .web {
+    width:57%;
+    padding:0;;
   }
  }
