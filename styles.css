@@ -198,12 +198,13 @@ button {
   width:20%
 }
 .credentials .web {
-  width:38%;
+  width:43%;
+  max-height:280px;
   padding:0;
 }
 .credentials .cert {
-  width:35%;
-  max-height:270px;
+  width:41.5%;
+  max-height:300px;
   height:auto;
 }
 #contact{
